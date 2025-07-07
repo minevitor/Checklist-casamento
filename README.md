@@ -1,3 +1,5 @@
-# Checklist Casamento
 
-Checklist interativo para planejamento de casamento feito com React + Vite.
+
+# Checklist-casamento
+Pra gente organizar certin
+
